@@ -9,24 +9,24 @@
 >修复过程简图
 
 
-![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/edit/master/images/progress.png)
+![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/progress.png)
 
 
 >修复思路图（蓝色图像生成过程  绿色图像修复过程）
 
 
-![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/edit/master/images/complete_progress.png)
+![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/complete_progress.png)
 
 
 >生成模型图
-![gen_model](https://github.com/GorgeousYUROU/DCGAN-inpainting/edit/master/images/gen_model.png)
-![dis_model](https://github.com/GorgeousYUROU/DCGAN-inpainting/edit/master/images/dis_model.png)
+![gen_model](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/gen_model.png)
+![dis_model](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/dis_model.png)
 
 
 >修复效果图展示
 
 
-![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/edit/master/images/complete.png)
+![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/complete.png)
 
 ## 致谢(部分引用)：
 
