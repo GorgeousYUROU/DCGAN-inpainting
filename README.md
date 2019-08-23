@@ -26,7 +26,7 @@
 >修复效果图展示
 
 
-![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/complete.png)
+![alt](https://github.com/GorgeousYUROU/DCGAN-inpainting/raw/master/images/completed.png)
 
 ## 致谢(部分引用)：
 
